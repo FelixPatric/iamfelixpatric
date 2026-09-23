@@ -4,7 +4,7 @@
       <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Profile Avatar" width="110" />
     </td>
     <td>
-      <h2>Hi, I'm Your Name 👋</h2>
+      <h2>Hi, I'm Felix Patric 👋</h2>
 
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=650&color=7AA2F7&vCenter=true&width=760&height=36&lines=Full-Stack+Developer;C%23+%26+.NET+Engineer;JavaScript+%7C+TypeScript+Developer;React+%7C+Angular+Builder" alt="Typing SVG" />
 
